@@ -1,3 +1,2 @@
-print('Python with Ammar')
-print('We are learning python with Ammar')
-2+3
+'This is the first sesssion delivered by Miss Qurat ul Ain on git'
+'We are in the git101 session'
